@@ -1,0 +1,16 @@
+# Файлы окружения
+.env
+.env.local
+.env.production
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Логи
+*.log
+logs/
+
+# Кэш Python
+__pycache__/
+*.pyc
